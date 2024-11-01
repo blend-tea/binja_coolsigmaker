@@ -1,3 +1,4 @@
+This repository is forked https://github.com/unknowntrojan/binja_coolsigmaker and add the windows version.
 # binja_coolsigmaker
 
 We all know signature scanning can be extremely useful. Sadly, the two public offerings for Binja are either very slow, or crash extremely often.
